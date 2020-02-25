@@ -29,10 +29,9 @@ Raychaudhuri S, Korn JM, McCarroll SA, Altshuler D, Sklar P, et al. (2010), "Acc
 Chung D, Yang C, Li C, Gelernter J, and Zhao H (2013), "GPA: A statistical approach to prioritizing GWAS results by integrating pleiotropy and annotation", To appear in PLoS Genetics.
 }
 \examples{
-\dontrun{
+
 data(exampleData)
-library(GPA)
-exampleData
-}
+head(exampleData)
+
 }
 \keyword{datasets}

@@ -6,10 +6,11 @@ Version: 0.99.0
 Depends: R (>= 4.0.0)
 Date: 2020-02-24
 Author: Dongjun Chung, Carter Allen
-Maintainer: Dongjun Chung <chungd@musc.edu>
+Maintainer: Dongjun Chung <dongjun.chung@gmail.com>
 Description: Example data for the GPA package, consisting of the p-values of 1,219,805 SNPs for five psychiatric disorder GWAS from the psychiatric GWAS consortium (PGC), with the annotation data using genes preferentially expressed in the central nervous system (CNS).
 License: GPL (>= 2)
 URL: http://dongjunchung.github.io/GPA/
 LazyLoad: yes
-biocViews: ExperimentData, Homo_sapiens, SNPData
+biocViews: ExperimentData, Homo_sapiens_Data, SNPData
+NeedsCompilation: no
 Packaged: 2014-10-16 14:18:07 UTC; dj2jy
