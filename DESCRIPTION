@@ -2,7 +2,7 @@ Package: gpaExample
 Type: Package
 Title: Example data for the GPA package (Genetic analysis incorporating
         Pleiotropy and Annotation)
-Version: 0.99.2
+Version: 0.99.3
 Depends: R (>= 4.0.0)
 Date: 2020-02-24
 Author: Dongjun Chung, Carter Allen
@@ -10,7 +10,7 @@ Maintainer: Dongjun Chung <dongjun.chung@gmail.com>
 Description: Example data for the GPA package, consisting of the p-values of 1,219,805 SNPs for five psychiatric disorder GWAS from the psychiatric GWAS consortium (PGC), with the annotation data using genes preferentially expressed in the central nervous system (CNS).
 License: GPL (>= 2)
 URL: http://dongjunchung.github.io/GPA/
-LazyLoad: yes
+LazyData: FALSE
 biocViews: ExperimentData, Homo_sapiens_Data, SNPData
 NeedsCompilation: no
 Packaged: 2020-03-12
